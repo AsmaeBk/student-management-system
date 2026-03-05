@@ -103,8 +103,3 @@ GET /api/students
 
 Returns the list of students.
 
----
-
-## Author
-
-Built as a learning project while studying **Spring Boot and full-stack development**.
